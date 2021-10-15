@@ -10,5 +10,5 @@ Original file is located at
 import streamlit as st
 
 st.title("授業")
-st.headder("松下莉子")
+st.header("松下莉子")
 st.warning("注意")
